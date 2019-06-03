@@ -1,17 +1,24 @@
 {
-  "commitish" : "6.0.0",
-  "iOS" : [
+  "watchOS" : [
     {
       "name" : "ReactiveSwift",
-      "hash" : "632cfb0f020b4f719e9641b3368e6be83d182dab1702b13edb736034072d3dd2",
-      "swiftToolchainVersion" : "5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+      "hash" : "47bc8c525fea346f8ce8a2d03760c4e919662cebc515289e86e54cd0555e2a96",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.38.29 clang-1100.0.20.14)"
     }
   ],
   "tvOS" : [
     {
       "name" : "ReactiveSwift",
-      "hash" : "dd53af1cd586d6f3a431023c1b6c5d855b6c7aba781dc943386df4670cb353e6",
-      "swiftToolchainVersion" : "5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+      "hash" : "b0aa3019a5e56991088a8ab9cdf16fd9506688524fdc0d40b9a9973eac504212",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.38.29 clang-1100.0.20.14)"
+    }
+  ],
+  "commitish" : "b9c65ddb7ae8fe2779853ef8cc21679d39efa88b",
+  "iOS" : [
+    {
+      "name" : "ReactiveSwift",
+      "hash" : "7ee9e73a70fa7d14dd084a5497a81e4de3d43cc51cb923dda74e0463170acb4f",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.38.29 clang-1100.0.20.14)"
     }
   ]
 }
